@@ -9,13 +9,13 @@
 "preset": true,
 "patches": [
 {
-"dllName": "soundvoltex.dll",
+"dllName": "game.dll",
 "dataDisabled": "E8F0E201",
 "dataEnabled": "B80B0000",
 "dataOffset": 1290139
 },
 {
-"dllName": "soundvoltex.dll",
+"dllName": "game.dll",
 "dataDisabled": "8B44241CE828EEFFFF",
 "dataEnabled": "B80300000090909090",
 "dataOffset": 1604335
