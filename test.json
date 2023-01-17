@@ -1,8 +1,8 @@
 [
 {
-"gameCode": "KFC",
+"gameCode": "M32",
 "dateCodeMin": 2016121200,
-"dateCodeMax": 2016121200,
+"dateCodeMax": 2023121200,
 "name": "All songs/difficulties unlocked",
 "description": "Bypasses unlocks on all songs and difficulties",
 "type": "memory",
